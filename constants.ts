@@ -7,7 +7,7 @@ export const EDUCATIONAL_VIDEOS: EducationalVideo[] = [
     title: "The Solar System",
     description: "A journey through the planets orbiting our sun.",
     thumbnailUrl: "https://picsum.photos/seed/space/400/225",
-    videoUrl: "https://assets.mixkit.co/videos/preview/mixkit-a-fast-fly-through-of-the-milky-way-42721-large.mp4",
+    videoUrl: "/1.mp4",
   },
   {
     id: 2,
